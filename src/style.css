@@ -24,7 +24,7 @@ h2 {
   font-size: 36px;
 }
 
-h3 {
+h3, .heading {
   font-size: 24px;
   opacity: 0.7;
 }
